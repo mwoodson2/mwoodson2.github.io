@@ -1,0 +1,12 @@
+On logo click 
+	return to landing page
+
+
+On image click, 
+	hide all sections
+	toggle next section 
+	shade image
+	unshade all other images
+
+
+	
