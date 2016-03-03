@@ -19,6 +19,10 @@ $('button').click(function(event){
     event.preventDefault();
 });
 
+$('#').click(function(event){
+    event.preventDefault();
+});
+
 
 
 }); //end ready
