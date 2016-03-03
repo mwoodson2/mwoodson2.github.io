@@ -113,6 +113,16 @@ header{
   height: auto;
 }
 
+.infoimg {
+	width:600px;
+	display: block;
+}
+
+.infotext {
+	font-size: 12px;
+	padding-top:10px;
+}
+
 .post {
   width: 1200px;
   background-color: white;
