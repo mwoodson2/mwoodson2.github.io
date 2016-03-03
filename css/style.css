@@ -115,9 +115,12 @@ header{
 
 .infoimg {
 	width:600px;
-	display: block;
+	display: center;
 }
 
+h3 {
+	font-size:24px;
+}
 .infotext {
 	font-size: 12px;
 	padding-top:10px;
